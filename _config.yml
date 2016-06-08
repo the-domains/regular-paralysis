@@ -1,0 +1,14 @@
+layout_spectrum: 0.1911505009047687
+typography_spectrum: 0.488301316043362
+color:
+  brandStrength: 0.03863758104853332
+  lightness: 0.7279720907099545
+  saturation: 0.24317931197583675
+  rhythmicContrast: 0.4483283944427967
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: regular paralysis
